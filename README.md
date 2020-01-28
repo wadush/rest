@@ -1,1 +1,1 @@
-https://wadush.github.io/rest/.
+https://wadush.github.io/rest/
